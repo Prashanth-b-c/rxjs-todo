@@ -1,3 +1,3 @@
 import {BehaviorSubject} from 'rxjs'
 
-export const subject = new BehaviorSubject()
+export const prodSubject = new BehaviorSubject()
