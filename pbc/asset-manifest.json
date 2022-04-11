@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rxjs-todo/pbc/static/css/main.0b4e74b4.css",
+    "main.js": "/rxjs-todo/pbc/static/js/main.584f82b5.js",
+    "static/js/787.63e47474.chunk.js": "/rxjs-todo/pbc/static/js/787.63e47474.chunk.js",
+    "index.html": "/rxjs-todo/pbc/index.html",
+    "main.0b4e74b4.css.map": "/rxjs-todo/pbc/static/css/main.0b4e74b4.css.map",
+    "main.584f82b5.js.map": "/rxjs-todo/pbc/static/js/main.584f82b5.js.map",
+    "787.63e47474.chunk.js.map": "/rxjs-todo/pbc/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.584f82b5.js"
+  ]
+}
